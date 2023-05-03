@@ -1,15 +1,15 @@
 {
   "name": "starter",
-  "productName": "inv-manager",
-  "description": "an inv manager app.",
+  "productName": "quasar-starter",
+  "description": "a quasar-starter app.",
   "version": "1.0.0",
-  "homepage": "https://github.com/lakesidernd/quasar-v2-starter#readme",
+  "homepage": "https://github.com/paitoncamp/quasar-starter#readme",
   "bugs": {
-    "url": "https://github.com/lakesidernd/quasar-v2-starter/issuess"
+    "url": "https://github.com/paitoncamp/quasar-starter/issuess"
   },
   "author": {
-    "name": "Milos Paunovic",
-    "email": "paun992@hotmail.com"
+    "name": "paitoncamp",
+    "email": "paitoncamp@gmail.com"
   },
   "license": "MIT",
   "scripts": {
