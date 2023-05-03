@@ -11,7 +11,7 @@ import { defineComponent } from 'vue';
 //const isAuthenticated = useIsAuthenticated();
 
 export default defineComponent({
-  name: 'inv-manager',
+  name: 'quasar-starter',
   //components: {Header}
 });
 </script>
