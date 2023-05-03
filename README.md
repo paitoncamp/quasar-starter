@@ -1,6 +1,6 @@
-# inv-manager
+# quasar-starter
 
-an inv manager app.
+a quasar-starter app.
 
 ### Install the dependencies
 
