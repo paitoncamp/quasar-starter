@@ -1,6 +1,6 @@
 # quasar-starter
 
-a quasar-starter app.
+a quasar-starter app that already integrated with Azure AD - msal browser plugin
 
 ### Install the dependencies
 
